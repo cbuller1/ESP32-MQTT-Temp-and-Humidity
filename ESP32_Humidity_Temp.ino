@@ -1,7 +1,6 @@
 // This program unitlizes an ESP32 microcontroller and DHT11 temperature and humidity sensor.
 // MCU connects to MQTT Broker to publish results to a UI in Node Red
 
-
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <DHT.h>
