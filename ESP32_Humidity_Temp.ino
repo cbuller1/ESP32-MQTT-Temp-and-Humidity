@@ -8,7 +8,7 @@
 
 // WiFi credentials
 const char* ssid = "Cabin";
-const char* password = "NUNYA";
+const char* password = "fake pass";
 
 // MQTT setup
 const char* mqtt_server = "test.mosquitto.org"; // server address
